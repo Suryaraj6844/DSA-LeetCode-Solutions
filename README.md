@@ -13,8 +13,8 @@ This repository contains my solutions to Data Structures and Algorithms problems
 
 ## 📊 Progress
 
-Total Problems Solved: 3  
-Easy: 3
+Total Problems Solved: 4
+Easy: 4
 Medium: 0  
 Hard: 0  
 
