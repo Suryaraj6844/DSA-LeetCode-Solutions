@@ -13,9 +13,9 @@ This repository contains my solutions to Data Structures and Algorithms problems
 
 ## 📊 Progress
 
-Total Problems Solved: 12
+Total Problems Solved: 13
 Easy: 5
-Medium: 7
+Medium: 8
 Hard: 0
 
 ---
