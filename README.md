@@ -13,10 +13,10 @@ This repository contains my solutions to Data Structures and Algorithms problems
 
 ## 📊 Progress
 
-Total Problems Solved: 4
-Easy: 4
-Medium: 0  
-Hard: 0  
+Total Problems Solved: 10
+Easy: 5
+Medium: 5
+Hard: 0
 
 ---
 
@@ -56,17 +56,17 @@ DSA-LeetCode-Solutions
  ├── Strings
  ├── Binary Search
  ├── Recursion & Backtracking
- ├── Linked List 
+ ├── Linked List
  ├── Stacks & Queues
- ├── Binary Trees 
+ ├── Binary Trees
  ├── BST
  ├── Heaps
  ├── Tries
- ├── Graphs 
- ├── DP 
+ ├── Graphs
+ ├── DP
  ├── Greedy
  └── Miscellaneous
- 
+
 ```
 
 ---
